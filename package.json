@@ -1,0 +1,31 @@
+{
+  "name": "standardlogger",
+  "private": false,
+  "version": "1.0.1",
+  "description": "ES6 JS class for specifying log output verbosity, log colors, and timestamps",
+  "keywords": [
+    "standardlogger",
+    "standard logger",
+    "standard",
+    "logger",
+    "timestamp",
+    "timestamps",
+    "timestamp logging",
+    "logging",
+    "logging module",
+    "log",
+    "logs",
+    "color logging",
+    "colors",
+    "DIE",
+    "INFO",
+    "WARN",
+    "DEBUG"
+  ],
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/falconscript/standardlogger"
+  }
+}
