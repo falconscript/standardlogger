@@ -82,7 +82,7 @@ class StandardLogger {
 
   exportLoggerFunctionsToGlobal () {
     // export all to global namespace
-    ['INFO', 'DIE', 'DEBUG', 'vDEBUG', 'setLoggerVerbosity'].forEach((name, index) => {
+    ['INFO', 'WARN', 'DIE', 'DEBUG', 'vDEBUG', 'setLoggerVerbosity'].forEach((name, index) => {
       global[name] = this[name].bind(this);
     });
   }

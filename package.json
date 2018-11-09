@@ -1,7 +1,7 @@
 {
   "name": "standardlogger",
   "private": false,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ES6 JS class for specifying log output verbosity, log colors, and timestamps",
   "keywords": [
     "standardlogger",
